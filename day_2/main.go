@@ -9,26 +9,14 @@ type FIO struct {
 
 //ExponentialSearch 123
 func ExponentialSearch(a []int, x int) int {
-	if len(a) == 1 {
-		if a[0] > x {
-			return 0
+	for k, n := 0, len(a); ; n = n - k/2 {
+		for k = 1; k <= n && a[n-k] > x; k *= 2 {
 		}
-		return 1
+		if k == 1 {
+			return n
+		}
 	}
-	k := 1
-	for ; k < len(a) && a[len(a)-k] > x; k *= 2 {
 
-	}
-	if k == 1 {
-		return len(a)
-	}
-	k /= 2
-	for ; k < len(a) && a[len(a)-k] > x; k++ {
-	}
-	if k == len(a) {
-		return 0
-	}
-	return len(a) - k + 1
 }
 
 //BinarySearch 123

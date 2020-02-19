@@ -1,0 +1,13 @@
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/google/go-cmp v0.3.0/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMywk6iLU=
+github.com/leanovate/gopter v0.2.4/go.mod h1:gNcbPWNEWRe4lm+bycKqxUYoH5uoVje5SkOJ3uoLer8=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
+github.com/vporoshok/muzzy v0.2.0 h1:hzroy78G3oDM1ys2f0TgKVHHFgdRRzyrAKICWJakXjM=
+github.com/vporoshok/muzzy v0.2.0/go.mod h1:BBWuVaPwsDfzX5wqFr+g9GFpsi54xHRobo1LxkQzNTU=
+github.com/vporoshok/pogo v0.9.2 h1:3o4DgS3enElq6uZCyxbA1BqI/l8HVaJyhIAPYPk1bTc=
+github.com/vporoshok/pogo v0.9.2/go.mod h1:GQk/E9PLocXCo9IhzhfmRVtiICGFDlj6ShE6DO0QAcE=
+gotest.tools v2.2.0+incompatible/go.mod h1:DsYFclhRJ6vuDpmuTbkuFWG+y2sxOXAzmJt81HFBacw=
