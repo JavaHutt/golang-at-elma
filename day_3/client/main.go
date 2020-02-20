@@ -10,8 +10,8 @@ import (
 )
 
 const (
-	concurrency = 4
-	requests    = 100
+	concurrency = 80
+	requests    = 500
 )
 
 func doWork() string {
